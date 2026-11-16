@@ -4,7 +4,7 @@
 
 **Spending-anomaly detector for small businesses.** Flags duplicate charges, subscription price hikes and one-off spikes. Each recommendation has an **"Explain this simply"** button that rewrites it in plain English for a business owner.
 
-**Track:** AI + Finance (own idea) · **Team:** _add names_ · Veritas AI International High School Hackathon 2026
+**Track:** AI + Finance (own idea) · **Team:** _Ian Ensley & Arya Patel_ · Veritas AI International High School Hackathon 2026
 
 > This project is a prototype and is not financial advice.
 
